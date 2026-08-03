@@ -1,0 +1,18 @@
+HEY there!
+Abdullah here,
+
+This is my Utility tool that I made to help me calculate my Day-End Report while FreeLancing for B2B.
+
+Install the Latest Python from web
+then During Install tick mark all the Check boxes without thinking
+
+Run Setup.bat and let is Run peacefully..
+
+After that Double Click CRM-Counter.bat and Enjoy 
+You should also keep the original files separate and copy these files in a SubFolder so YK it would act as a backup file if anything
+breaks....
+
+
+
+Pin it in TaskBar and Enjoy!
+
